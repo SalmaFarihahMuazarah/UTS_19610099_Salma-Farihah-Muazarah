@@ -50,7 +50,7 @@ header ul li a:hover {
 }
 .banner {
 	height: 60vh;
-	background-image: url('../img/store.jpeg');
+	background-image: url('https://github.com/SalmaFarihahMuazarah/UTS_19610099_Salma-Farihah-Muazarah/blob/main/img/store.jpeg?raw=true');
 	background-size: cover;
 	position: relative;
 	display: flex;
